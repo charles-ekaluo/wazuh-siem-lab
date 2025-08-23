@@ -42,7 +42,8 @@ The goal: showcase my ability to deploy, configure, and simulate SIEM detections
 - **Test:** Created/modified/deleted `testfile.txt`.  
 - **Result:** Alert appeared on dashboard under *Integrity Monitoring*.  
 
-📸 *[Insert screenshot of dashboard FIM alert]*  
+<img width="1052" height="453" alt="image" src="https://github.com/user-attachments/assets/bc65eb0b-9dcf-416c-9de9-3290b9b91d6a" />
+
 
 ---
 
@@ -50,7 +51,8 @@ The goal: showcase my ability to deploy, configure, and simulate SIEM detections
 - **Test:** Repeated invalid SSH logins (`ssh wronguser@localhost`).  
 - **Result:** Alerts raised under *Authentication* in dashboard.  
 
-📸 *[Insert screenshot of failed login alert]*  
+<img width="1160" height="572" alt="image" src="https://github.com/user-attachments/assets/940846ad-9f25-4767-9432-6502d3a07f4b" />
+
 
 ---
 
@@ -58,7 +60,8 @@ The goal: showcase my ability to deploy, configure, and simulate SIEM detections
 - **Test:** Created user `hacker` (`sudo useradd hacker`).  
 - **Result:** Alert appeared under *User and Account Activity*.  
 
-📸 *[Insert screenshot of account creation alert]*  
+<img width="1258" height="474" alt="image" src="https://github.com/user-attachments/assets/f57174cc-e3b6-43a4-a7d4-d8571d9f9914" />
+
 
 ---
 
@@ -66,7 +69,8 @@ The goal: showcase my ability to deploy, configure, and simulate SIEM detections
 - **Test:** Attempted unauthorized privileged commands (`sudo su`, `sudo cat /etc/passwd`).  
 - **Result:** Alerts raised for suspicious sudo activity.  
 
-📸 *[Insert screenshot of sudo abuse alert]*  
+<img width="1466" height="682" alt="image" src="https://github.com/user-attachments/assets/a628000a-48c3-4bc7-a480-2b0fcb8889f2" />
+
 
 ---
 
