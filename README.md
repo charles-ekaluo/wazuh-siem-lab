@@ -34,7 +34,7 @@ The goal: showcase my ability to deploy, configure, and simulate SIEM detections
    - Verified agent was `Active` on the dashboard.  
 
 ---
-##  Wazuh Dashboard Loghin with Agent Connected
+##  Wazuh Dashboard Login with Agent Connected
 
 <img width="1051" height="489" alt="image" src="https://github.com/user-attachments/assets/e42c02e6-50c0-49e9-a59c-aabbbe36f2ec" />
 
